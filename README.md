@@ -4,8 +4,7 @@
 
 <div>
     <center>
-    <div class="tenor-gif-embed" data-postid="16715249" data-share-method="host" data-width="100%" data-aspect-ratio="1.4954954954954955"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">Namazu Ffxiv GIF</a> from <a href="https://tenor.com/search/namazu-gifs">Namazu GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://tenor.com/biiyX.gif" width="auto" height="auto" />
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="auto" height="auto" />
     </center>
 </div>
 
