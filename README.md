@@ -4,7 +4,7 @@
 
 <div>
     <center>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" width="auto" height="auto" />a>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" width="auto" height="auto" />
     </center>
 </div>
 
