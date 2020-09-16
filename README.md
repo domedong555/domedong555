@@ -3,7 +3,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dome.dong.5)  
 
 <div>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" width="auto" height="auto" /></a>
+    <center>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" width="auto" height="auto" />a>
+    </center>
 </div>
 
 <!--
