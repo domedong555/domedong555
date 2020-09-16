@@ -1,8 +1,10 @@
-### Hi there 👋
+### Lali-oh 👋
+### I'm Dome
+### I'm from Thailand. I'm a student at University of Phayao. I study in Software Engineer.
 
 <div>
     <center>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="auto" height="auto" />
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://tenor.com/biiyX.gif" width="auto" height="auto" />
     </center>
 </div>
 
