@@ -17,10 +17,10 @@ function findIdentity(person) {
 
 const adder = (a,b) => a + b 
 
-const more = (a,b) => {
-    this.user = 'Joke'
-    return a + b
-}
+// const more = (a,b) => {
+//     this.user = 'Joke'
+//     return a + b
+// }
 
 console.log(add(2,33),mul(3,2))
 console.log(findIdentity(person))
