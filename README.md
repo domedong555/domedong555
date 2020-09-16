@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dome.dong.5)  
-[![Facebook Badge](https://img.shields.io/badge/-@pakorn_tawansang-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/dome.dong.5)](https://www.facebook.com/dome.dong.5)  
+[![Facebook Badge](https://img.shields.io/badge/-@pakorn_tawansang-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/dome.dong.5)](https://www.facebook.com/dome.dong.5)  [![Steam Badge](https://img.shields.io/badge/-@dome-171a21?style=flat-square&labelColor=171a21&logo=steam@logoColor=black&link=http://steamcommunity.com/profiles/76561198079150551)](http://steamcommunity.com/profiles/76561198079150551)  
 <div>
     <center>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" width="auto" height="auto" />
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank"><img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" width="auto" height="auto" />
     </center>
 </div>
 
